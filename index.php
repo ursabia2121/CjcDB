@@ -18,21 +18,6 @@
     <input type="text" id="last_name" name="last_name" required><br>
 
     <div class="loader">
-        <span class="loader-text">Password</span>
-    </div>
-    <input type="password" id="password" name="password" required><br>
-
-    <div class="loader">
-        <span class="loader-text">Email</span>
-    </div>
-    <input type="email" id="email" name="email" required><br>
-
-    <div class="loader">
-        <span class="loader-text">Home address</span>
-    </div>
-    <input type="text" id="home_address" name="home_address" required><br>
-    
-    <div class="loader">
         <span class="loader-text">Home address extra</span>
     </div>
     <input type="text" id="home_address_extra" name="home_address_extra" required><br>
