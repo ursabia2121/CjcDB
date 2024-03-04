@@ -18,8 +18,7 @@
     <input type="text" id="last_name" name="last_name" required><br>
 
     <div class="loader">
-        <span class="loader-text">Home address extra</span>
-    </div>
+        <span class="loader-text">Home address extra</span>    </div>
     <input type="text" id="home_address_extra" name="home_address_extra" required><br>
 
     <div class="loader">
